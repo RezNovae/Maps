@@ -1,3 +1,0 @@
-var hoke = ee.FeatureCollection("users/eugenerkang/HokeBoundary2"),
-var s2VisParams = {"bands":["B4","B3","B2"],"min":0,"max":3000},
-var geometry = /* color: #d63000 */ee.Geometry.MultiPoint();
